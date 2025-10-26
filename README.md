@@ -9,4 +9,4 @@ Teach the subject
 
 # School
 
-primary , secondary , intermediate.
+primary , secondary , intermediate.....
