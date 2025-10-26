@@ -6,3 +6,7 @@ he is a student
 
 Teach the subject 
 
+
+# School
+
+primary , secondary , intermediate
